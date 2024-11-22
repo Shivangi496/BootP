@@ -1,0 +1,21 @@
+navbar-dark .navbar-nav .navbar-link{
+  color: rgb(255 255 255) !important;
+  font-weight: 400%;
+}
+#slide{
+  width: 80%;
+height: 50%;
+
+}
+.card{ 
+  font-weight: 300;
+  font-size: 15px;
+}
+.card:hover{
+  transform: scale(1.2);
+  cursor: pointer;
+}
+#quotes{
+  font-size: 40px;
+  font-weight: 400;
+}
