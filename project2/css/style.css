@@ -1,0 +1,21 @@
+.navbar-logo {
+  width: 80px;  /* Adjust width to fit your design */
+  height: auto;  /* Keeps aspect ratio */
+  max-height: 40px; /* Ensures it doesn’t exceed the navbar height */
+}
+#top-nav{
+  background-color: rgb(240, 207, 230) !important;
+  padding: 0 6%;
+}
+#searchbox{
+  background-color: rgb(226, 199, 214);
+  color: white;
+  border: none;
+  border-radius: 0;
+  position: relative;
+  left: 60px;
+  box-shadow: 5px 10px 11px 0px #00000021;
+}
+#searchbtn{
+  
+}
